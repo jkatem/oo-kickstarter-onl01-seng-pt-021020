@@ -14,5 +14,5 @@ class Backer
     @backers << title
   end
 
-  def
+
 end
